@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./banner.svg" width="100%" alt="Yujeong Go — Frontend Developer" />
+<img src="./banner.svg" width="100%" alt="YuJeong Go — Frontend Developer" />
 </div>
 
 <br>
@@ -12,18 +12,14 @@
 
 ### About
 
-사용자가 실제로 느끼는 경험을 세심하게 다듬는 프론트엔드 개발자입니다.
-백엔드 구조를 이해한 상태에서 협업하기 위해 Spring Boot, Node.js도 함께 공부하고 있어요.
-Jira · GitHub Projects로 이슈를 관리하며 팀 단위 개발 흐름에 익숙합니다.
-개발하며 정리한 내용은 velog에 기록합니다.
+- 사용자가 실제로 느끼는 경험을 세심하게 다듬는 프론트엔드 개발자입니다
+- 백엔드 구조를 이해한 상태에서 협업하기 위해 Spring Boot, Node.js도 함께 공부하고 있어요
+- Jira · GitHub Projects로 이슈를 관리하며 팀 단위 개발 흐름에 익숙합니다
+- 개발하며 정리한 내용은 velog에 기록합니다
 
 <br>
 
 ### Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
 
 **Frontend**
 <br>
@@ -32,8 +28,7 @@ Jira · GitHub Projects로 이슈를 관리하며 팀 단위 개발 흐름에 �
 <img src="https://img.shields.io/badge/JavaScript-16161e?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-16161e?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
 
-</td>
-<td valign="top" width="50%">
+<br>
 
 **Backend** <sub>· 협업 가능한 수준</sub>
 <br>
@@ -42,9 +37,7 @@ Jira · GitHub Projects로 이슈를 관리하며 팀 단위 개발 흐름에 �
 <img src="https://img.shields.io/badge/MySQL-16161e?style=flat-square&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/PostgreSQL-16161e?style=flat-square&logo=postgresql&logoColor=4169E1" />
 
-</td>
-</tr>
-</table>
+<br>
 
 **Collaboration**
 <br>
