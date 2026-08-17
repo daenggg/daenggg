@@ -52,8 +52,6 @@
 
 ### Contact
 
-<div align="center">
 <a href="https://velog.io/@dywjd8080/posts"><img src="https://img.shields.io/badge/velog-16161e?style=flat-square&logo=velog&logoColor=20C997" /></a>
 <a href="mailto:dywjd690108@naver.com"><img src="https://img.shields.io/badge/email-16161e?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
 <a href="https://github.com/daenggg"><img src="https://img.shields.io/badge/github-16161e?style=flat-square&logo=github&logoColor=ffffff" /></a>
-</div>
