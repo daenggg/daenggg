@@ -1,0 +1,70 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7aa2f7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="none" stroke="#2a2b3d" stroke-width="1.5"/>
+
+  <!-- window chrome -->
+  <rect x="0" y="0" width="1200" height="44" rx="18" fill="#1f2030"/>
+  <rect x="0" y="26" width="1200" height="18" fill="#1f2030"/>
+  <circle cx="30" cy="22" r="6.5" fill="#f7768e"/>
+  <circle cx="52" cy="22" r="6.5" fill="#e0af68"/>
+  <circle cx="74" cy="22" r="6.5" fill="#9ece6a"/>
+  <text x="600" y="27" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#565f89">profile.ts</text>
+  <line x1="0" y1="44" x2="1200" y2="44" stroke="url(#glow)" stroke-width="1.5"/>
+
+  <!-- code body -->
+  <g font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="24">
+    <!-- line numbers -->
+    <text x="34" y="100" fill="#3b3d54" font-size="20">1</text>
+    <text x="34" y="140" fill="#3b3d54" font-size="20">2</text>
+    <text x="34" y="180" fill="#3b3d54" font-size="20">3</text>
+    <text x="34" y="220" fill="#3b3d54" font-size="20">4</text>
+    <text x="34" y="260" fill="#3b3d54" font-size="20">5</text>
+
+    <text x="80" y="100">
+      <tspan fill="#bb9af7">const</tspan>
+      <tspan fill="#c0caf5"> developer </tspan>
+      <tspan fill="#89ddff">=</tspan>
+      <tspan fill="#c0caf5"> {</tspan>
+    </text>
+
+    <text x="80" y="140">
+      <tspan fill="#7aa2f7">  name</tspan>
+      <tspan fill="#c0caf5">: </tspan>
+      <tspan fill="#9ece6a">"YuJeong Go"</tspan>
+      <tspan fill="#c0caf5">,</tspan>
+    </text>
+
+    <text x="80" y="180">
+      <tspan fill="#7aa2f7">  role</tspan>
+      <tspan fill="#c0caf5">: </tspan>
+      <tspan fill="#9ece6a">"Frontend Developer"</tspan>
+      <tspan fill="#c0caf5">,</tspan>
+    </text>
+
+    <text x="80" y="220">
+      <tspan fill="#7aa2f7">  focus</tspan>
+      <tspan fill="#c0caf5">: </tspan>
+      <tspan fill="#9ece6a">"React · TypeScript · UX"</tspan>
+      <tspan fill="#c0caf5">,</tspan>
+    </text>
+
+    <text x="80" y="260">
+      <tspan fill="#c0caf5">};</tspan>
+    </text>
+  </g>
+
+  <!-- cursor blink bar -->
+  <rect x="565" y="242" width="3" height="26" fill="#9ece6a"/>
+</svg>
